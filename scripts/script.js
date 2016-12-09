@@ -1,0 +1,1 @@
+document.write('<h1>Hello, Brain Academy!</h1>');
